@@ -1,0 +1,8 @@
+--- Mahsulotlar ro'yxati ---
+1. Nomi: Olma, Narxi: 0.00, Soni: 20
+2. Nomi: Non, Narxi: 0.00, Soni: 30
+3. Nomi: Sut, Narxi: 0.00, Soni: 10
+4. Nomi: Noutbuk, Narxi: 0.00, Soni: 2
+5. Nomi: Sichqoncha, Narxi: 0.00, Soni: 10
+
+Eng qimmat mahsulot: Noutbuk (0.00)
